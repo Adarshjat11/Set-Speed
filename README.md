@@ -72,8 +72,6 @@
 
 ## 📫 Contact
 
-Made with ❤️ by **Adarsh Jat**
-
 - 🌐 [LinkedIn](https://www.linkedin.com/in/adarsh-jat-39a79a250/)
 - ✉️ adarshjat3011@gmail.com 
 
