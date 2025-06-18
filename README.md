@@ -55,12 +55,6 @@
 
 ---
 
-## 📷 Demo & Screenshots
-
-*(Add images or GIFs of the OLED display, LED alerts, Blynk dashboard, circuit diagram here)*
-
----
-
 ## 🚀 Getting Started
 
 1. Connect components as per the circuit diagram
